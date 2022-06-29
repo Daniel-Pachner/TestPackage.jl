@@ -1,0 +1,4 @@
+name = "TestPackage"
+uuid = "59e20d92-2a73-480c-8edf-35729bac6541"
+authors = ["Daniel Pachner <Daniel.Pachner@skodagroup.com>"]
+version = "0.1.0"
